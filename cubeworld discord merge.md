@@ -66,5 +66,5 @@ Thanks for reading my wall-of-text till the end. Obviously we don't have to do e
 - Fulcnix (FoxDev): ok
 - Endimmion (serverlist): ok
 - Jay (r/cubeWorld): undecided
-- Blubbll (Zircon): pending...
+- Blubbll (Zircon): ok
 - Community: pending...
