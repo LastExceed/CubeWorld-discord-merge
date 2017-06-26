@@ -6,7 +6,7 @@ Before I elaborate on that, let me give some general information about the curre
 ### currently there are 5 major communities:
 | Name | Description | Link |
 | ------ | ------ | ------ |
-| [r/CubeWorld](http://reddit.com/r/cubeworld) | discord partners that don't host a server but maintains the largest community| discord.gg/cubeworld |
+| [r/CubeWorld](http://reddit.com/r/cubeworld) | discord partners that don't host a server but maintain the largest community | discord.gg/cubeworld |
 | [Zircon](http://Zircon.network) | network with both pvp (cuwo) and pve (vanilla) that uses a custom client for optimization | discord.gg/EU987J3 |
 | [FoxDev](http://FoxDev.co) | currently the oldest and biggest pvp server running on cuwo | discord.gg/g5hhxRq |
 | [Exceed](http://github.com/LastExceed/Exceed) | My project to create a lighting fast server with much less internet traffic/lag that uses a MITM for custom features | discord.gg/ZUwjxHf |
