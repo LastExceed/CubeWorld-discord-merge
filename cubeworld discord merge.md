@@ -1,5 +1,6 @@
 # CubeWorld discord merge
 This is the idea of merging all cubeworld related discord servers to one big community to bring together everyone who currently plays cubeworld.
+
 *Wait what? And how? Wouldn't that be extremely messy? Also the current owners don't want to loose the freedom and independence they currently have on their servers!*
 
 Before I elaborate on that, let me give some general information about the current state of the CubeWorld community:
@@ -34,7 +35,7 @@ First we need to decide on the destination server. In my eyes the answer to this
 In the end the current server owners will still have the same powers they currently have, the only difference being that there's more around it.
 The key principle will be having roles for each community that the (players can assign themselves with the help of bots), eg @foxdev @exceed @zircon ect.
 announcements won't be done with @everyone anymore but with the target communites role. If for example foxdev changes it's koth location the announcement will be done with @foxdev so that only those who are interested in foxdev's changes are pinged.
-The same goes for bans, if a player is banned from a community then he will only loose access to that role and it's channels, but stay on the discord server (there will ofcourse also be server bans if i.e. someone posts cp/gore/idkwhat. Basically the admins of each server will keep any right they previously had on their own discord server inside their role, server wide administration privileges will be removed (except for Jay [the owner] and his team of course). This will make sure that if it ever happens that someone abuses his privileges the entire cubeworld community won't be completely fucked (unless it's jay himself lol). In real live politics this known as
+The same goes for bans, if a player is banned from a community then he will only loose access to that role and it's channels, but stay on the discord server (there will ofcourse also be server bans if i.e. someone posts cp/gore/idkwhat. Basically the admins of each server will keep any right they previously had on their own discord server inside their role, server wide administration privileges will be removed (except for Jay [the owner] and his team of course). This will make sure that if it ever happens that someone abuses his privileges the entire cubeworld community won't be completely fucked (unless it's jay himself lol). In real life politics this is known as
 > division of powers
 
 Now what would the server look like? Obviously we can't just move all channels from all servers to a single one since that would be way too many and also very messy, so let's first get an overview of the typical channels you see on the discord servers:
