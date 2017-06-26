@@ -61,9 +61,10 @@ regarding the other channels: we need to spare a little in here, but that isn't 
 #### closing words
 Thanks for reading my wall-of-text till the end. Obviously we don't have to do everything exactly the way I explained it in here, this is just 1 way we COULD do it to not loose the overview. Remember that this is just an idea, and everything is solely for the community. This is why this document will be sent to all server owners and after that to all communities where everyone can vote. Nothing will be done that the community doesn't want.
 
-Status:
+#### Status:
 - BLACKROCK (Exceed): ok
 - Fulcnix (FoxDev): ok
 - Endimmion (serverlist): ok
 - Jay (r/cubeWorld): undecided
 - Blubbll (Zircon): pending...
+- Community: pending...
