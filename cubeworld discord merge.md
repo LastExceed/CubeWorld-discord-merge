@@ -7,10 +7,10 @@ Before I elaborate on that, let me give some general information about the curre
 | Name | Description | Link |
 | ------ | ------ | ------ |
 | [r/CubeWorld](http://reddit.com/r/cubeworld) | discord partners that don't host a server but maintains the largest community| discord.gg/cubeworld |
-| [Zircon.network](http://Zircon.network) | network with both pvp (cuwo) and pve (vanilla) that uses a custom client for optimization | discord.gg/EU987J3 |
-| FoxDev.co | currently the oldest and biggest pvp server running on cuwo | discord.gg/g5hhxRq |
+| [Zircon](http://Zircon.network) | network with both pvp (cuwo) and pve (vanilla) that uses a custom client for optimization | discord.gg/EU987J3 |
+| [FoxDev](http://FoxDev.co) | currently the oldest and biggest pvp server running on cuwo | discord.gg/g5hhxRq |
 | [Exceed](http://github.com/LastExceed/Exceed) | My project to create a lighting fast server with much less internet traffic/lag that uses a MITM for custom features | discord.gg/ZUwjxHf |
-| CubeWorld-servers.com | self explanatory, also hosts a pvp server (cuwo) | discord.gg/6eF2g4p |
+| [CubeWorld-servers.com](http://CubeWorld-servers.com) | The last server lister, also hosts a pvp server (cuwo) | discord.gg/6eF2g4p |
 
 each one of these is completely independent at the moment. But this also means that
 #### The community is split
