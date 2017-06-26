@@ -3,7 +3,7 @@ This is the idea of merging all cubeworld related discord servers to one big com
 *Wait what? And how? Wouldn't that be extremely messy? Also the current owners don't want to loose the freedom and independence they currently have on their servers!*
 
 Before I elaborate on that, let me give some general information about the current state of the CubeWorld community:
-#### currently there are 5 major communities:
+### currently there are 5 major communities:
 | Name | Description | Link |
 | ------ | ------ | ------ |
 | [r/CubeWorld](http://reddit.com/r/cubeworld) | discord partners that don't host a server but maintains the largest community| discord.gg/cubeworld |
@@ -13,17 +13,17 @@ Before I elaborate on that, let me give some general information about the curre
 | [CubeWorld-servers.com](http://CubeWorld-servers.com) | The last server lister, also hosts a pvp server (cuwo) | discord.gg/6eF2g4p |
 
 each one of these is completely independent at the moment. But this also means that
-#### The community is split
+### The community is split
 Some people don't even know about the existence of the other communites, thus thinking the still-active CubeWorld fandom is much smaller than it actually is, and also sometimes not knowing about game servers that are currently active. I have met people who thought there's only one server left alive although there's way more than that.
 
-#### Information doesn't spread to everyone
+### Information doesn't spread to everyone
 If something interesting happens in one community that isn't only related to that specific community but CubeWorld-general (eg the discovery of hidden features of the game. ChrisMiuchiz recently discovered a "teleport to town" hotkey, how many of you heard about that?), it takes forever until the others know about it. I keep meeting people who don't even know about Wollay's return after the 23 months of silence.
 
-#### How could we fix this?
+### How could we fix this?
 
 By merging everyone to a single discord server. It might sound like that would cause a huge confusing mess, but let me explain how we'd go about this. Most important is that this entire plan only works out if all 5 communites agree.
 
-#### Restructure
+### Restructure
 
 First we need to decide on the destination server. In my eyes the answer to this quesiton is obvious: r/CubeWorld. And I don't say this because I'm moderating there (after all I am moderating the majority of these servers anyway) but for multiple other reasons:
 - It's by far the biggest one at the moment
